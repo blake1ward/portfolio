@@ -8,7 +8,6 @@ permalink: /contact/
 
 <p><strong>phone:</strong> 214-794-1148</p>
 <p><strong>email:</strong> blake1ward@gmail.com</p>
-<br>
 <p>Dallas, Texas</p>
 
 Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
