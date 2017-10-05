@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Merging creative and technical skills"
+---
+
+<h3>Or, how I save time with integrated learning</h3>
+
+<p>I try to find places that may creative interests and professional interests intersect. For example, I am going to self publish a novel soon, and I need a simple, clean website on which to sell it. I've also been needing to practice deploying a <a href="https://jekyllrb.com/">Jekyll</a> site, and I also need to learn how to publish a static site using <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+
+<p>I think Jekyll is probably better suited for blog type websites, but there is a chance that, with some modification, it can look great as an eCommerce platform. I'll get practice going into the various folders that comprise the theme to make my modifications.</p>
+
+<p>I'll also need some kind of "buy" button on my site. I hear that <a href="https://www.shopify.com/">Shopify</a> is easy to just roll out onto sites. I also heard that <a href="https://snipcart.com/">Snipcart</a> <a href="https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll">integrates well </a>into the Jekyll theme. Maybe I'll try both and see which better suits me.</p>
+
+<p>(Free) Takeaways:</p>
+<ul>
+<li>A clean website on which to sell my book</li>
+<li>Portfolio piece: Jekyll-based static site</li>
+<li>Experience: deploying a Jekyll site using Ruby gems; hosting the site via GitHub Pages</li>
+</ul>
+<p>(Paid, ~$10-20) Takeaways:</p>
+<ul>
+<li>Experience: integrating the least expensive a purchasing mechanism on my static site</li>
+<li>Experience: two eCommerce platforms</li>
+</ul>
+
+<p>I believe that those takeaway skills are beneficial as a technical writer who needs to work dynamically in any environment.</p>
