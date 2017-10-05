@@ -1,7 +1,7 @@
 ---
-title: Work History
+title: About Me
 layout: post
-permalink: /history/
+permalink: /about/
 ---
 
 <p>Hello! I'm Blake Ward. I'm a Dallas based technical writer. Although I specialize in technical writing, I'm interested in writing/editing just about anything.</p>
