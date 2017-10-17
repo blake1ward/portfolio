@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In response to 'Generalist versus specialist'"
-date:   2017-09-13 23:34:56 +0530
+date:   01
 ---
 
 <p>This is written in response to Tim Johnson’s article, <a href="http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/">“Generalist versus specialist: What should you focus on with knowledge building in your tech writing role?”</a></p>
