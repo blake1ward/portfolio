@@ -6,14 +6,14 @@ title: "Learning Center"
 Learning Center
 [Link to Video]
 
-**Summary
+## Summary
 
 - A training portal for new clients and clients who migrate from one version of the software to another.
 - Videos, interactive exercises, and quizzes.
 - Enables managers to track employee progress; enables Visual Matrix team to determine if property is prepared to go live.
 - Hotels can continue training new employees.
 
-**Purpose
+## Purpose
 
 - Provides an objective benchmark that shows when a client is ready to go live with Visual Matrix or is prepared to migrate to a different platform.
 - Significantly decreases the amount of time the Implementation Coordinator spends training new clients.
@@ -22,12 +22,12 @@ Learning Center
 - Introduces clients to Visual Matrix's support suite (knowledge base, video library, and Client Services).
 - Establishes a positive and helpful relationship at the onset of client relationship.
 
-**Features
+## Features
 
 - An established onboarding system to upload properties in bulk, with tiered user privileges. 
 - Group enrollment keys keep gradebooks distinct--property manager's can see only their own employee's grades.
 
-**Tools Used
+## Tools Used
 
 - HTML/CSS
 - Adobe Captivate
