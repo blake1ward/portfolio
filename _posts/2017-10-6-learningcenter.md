@@ -7,10 +7,10 @@ Learning Center
 [Link to Video]
 
 Summary
--A training portal for new clients and clients who migrate from one version of the software to another.
--Videos, interactive exercises, and quizzes.
--Enables managers to track employee progress; enables Visual Matrix team to determine if property is prepared to go live.
--Hotels can continue training new employees.
+- A training portal for new clients and clients who migrate from one version of the software to another.
+- Videos, interactive exercises, and quizzes.
+- Enables managers to track employee progress; enables Visual Matrix team to determine if property is prepared to go live.
+- Hotels can continue training new employees.
 
 Purpose
 -Provides an objective benchmark that shows when a client is ready to go live with Visual Matrix or is prepared to migrate to a different platform.
