@@ -5,7 +5,7 @@ title: "Learning Center"
 
 Learning Center
 
-<p><a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning.PNG" alt="Learning Center"></a></p>
+<p><a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning1.png" alt="Learning Center"></a></p>
 
 
 ## Summary
