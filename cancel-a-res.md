@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Documentation
 layout: post
 permalink: /cancel-res/
 ---
