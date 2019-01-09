@@ -1,4 +1,3 @@
-
 ---
 title: Room Status
 layout: post
