@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Center"
+title: "Learning Center (Visual Matrix)"
 ---
 
 Learning Center
