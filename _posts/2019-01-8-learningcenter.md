@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Learning Center (Visual Matrix)"
+title: "Learning Center"
 ---
 
 Learning Center
 
-<a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning.PNG" alt="Learning Center"></a>
+<a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning.PNG"></a>
 
 ## Summary
 
