@@ -5,9 +5,7 @@ title: "Learning Center"
 
 Learning Center
 
-[![Learning Center](/images/vmlearning.PNG)](https://youtu.be/JR9jJMA1dGY "Learning Center")
-
-<a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning.PNG"></a>
+<a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning.PNG" alt="Learning Center"></a>
 
 ## Summary
 
