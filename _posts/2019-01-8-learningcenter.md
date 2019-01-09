@@ -5,7 +5,7 @@ title: "Learning Center"
 
 Learning Center
 
-<p><a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img href="https://i.imgur.com/9ookHeA.png" alt="Learning Center"></a></p>
+<p><a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="https://i.imgur.com/9ookHeA.png" alt="Learning Center"></a></p>
 
 ## Summary
 
