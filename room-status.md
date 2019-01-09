@@ -11,12 +11,12 @@ rooms.
 image
 
 - Double-click the room number to cycle through and set room statuses.
-- Select a Housekeeper from the dropdown. Only the rooms that you assigned to that
+- Select a **Housekeeper** from the dropdown. Only the rooms that you assigned to that
 housekeeper will appear in the window.
-- Reference this legend for the room colors in the window. Click Clean & Inspected to set all
-rooms to that status. Click Clean to set all “on change” rooms to “clean.”
+- Reference this legend for the room colors in the window. Click **Clean & Inspected** to set all
+rooms to that status. Click **Clean** to set all *“on change”* rooms to *“clean”*.
 
-*Note the legend at the top of the screen for the room status colors. Room with any of these
+*Note: the legend at the top of the screen for the room status colors. Room with any of these
 statuses can be checked in as long as they are vacant. Rooms that are yellow, for “clean,” are
 ready for guests but not yet inspected by a manager.*
 
