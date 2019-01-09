@@ -7,7 +7,7 @@ permalink: /cancel-res/
 ### To cancel a reservation:
 
 1. Search for the reservation.
-2. Click <img src="https://i.imgur.com/b1mnRmg.jpg"> **Cancel Res** on the function menu.
+2. Click <img src="https://i.imgur.com/b1mnRmg.jpg"> on the function menu.
 3. In the dialog box, click **Yes** to confirm cancellation (the following dialog box displays the *Cancel Confirmation Number*).
 4. Type in the reason for cancellation, and then click **Ok**.
 
@@ -26,6 +26,6 @@ field.
 4. Select the **Refund Method** from the dropdown.
 5. Click **Cancel Res**.
 
-<img src="https://i.imgur.com/ZveaD9w.jpg">
+<img src="https://i.imgur.com/ZveaD9w.jpg" height="200">
 
 6. Type in the reason for cancellation, and then click **Ok**.
