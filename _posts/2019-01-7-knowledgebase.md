@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Knowledge Base"
+title: "Knowledge Base (Visual Matrix)"
 ---
 
 ## Summary
