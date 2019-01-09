@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Cancel a Reservation
 layout: post
 permalink: /cancel-res/
 ---
