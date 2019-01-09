@@ -7,7 +7,7 @@ Learning Center
 
 [Link to Video]
 
-[![Learning Center](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/JR9jJMA1dGY "Learning Center")
+[![Learning Center](portfolio/images/vmlearning.PNG)](https://youtu.be/JR9jJMA1dGY "Learning Center")
 
 ## Summary
 
