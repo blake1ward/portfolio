@@ -5,9 +5,8 @@ title: "Learning Center"
 
 Learning Center
 
-<p><a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img src="/images/vmlearning1.png" alt="Learning Center"></a></p>
+<p><a href="https://youtu.be/JR9jJMA1dGY" target="_blank"><img href="https://i.imgur.com/9ookHeA.png" alt="Learning Center"></a></p>
 
-<img src="/images/vmlearning1.png">
 ## Summary
 
 - A training portal for new clients and clients who migrate from one version of the software to another.
