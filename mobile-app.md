@@ -40,13 +40,17 @@ work orders.
 pending preventative maintenance item tasks as *“complete”*.
 
 ## Housekeeping Supervisor
+
 **Room Assign**: Display all room assigned to the housekeepers. You can change the status
 or rooms and see housekeeping instructions.
+
 **Arrivals Report**: Display pending arrivals, pre-assigned rooms with “extras,” and
 housekeeping instructions.
+
 **Service History**: Display housekeeper room assignments for today or in the past. This
 shows who was assigned to a room on a particular day in your property’s history.
 
 ## Housekeeper
+
 **Room Status**: Housekeepers can view the room(s) assigned to them, and they can set
 rooms “clean” or “clean and inspected.”
