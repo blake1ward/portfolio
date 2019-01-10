@@ -1,7 +1,7 @@
 ---
 title: Cancel a Reservation
 layout: post
-permalink: /cancel-res/
+permalink: /mobile-app/
 ---
 
 Visual Matrix now has a mobile cloud app for Android users, available on Google Play.
