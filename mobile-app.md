@@ -20,10 +20,14 @@ Click at the bottom of the login screen, and then select whether your property i
 or a "production" property. Click **Ok**, and then log in with your user name and password.
 
 ## Management
+
 **Hotel Status**: Display your property’s statistics for the current and previous day.
+
 **Two Week Forecast**: Display arrivals, departures, rooms, and occupancy %.
+
 **Deposit Summary**: Display the hotel’s deposits, cash, checks, and total credit card
 charges.
+
 **Daily Report**: Display a recap report with your property’s occupied rooms, occupancy
 percentage, ADR, and REVPAR. Generate daily reports for today, month-to-date, and
 year-to-date.
