@@ -1,5 +1,5 @@
 ---
-title: Cancel a Reservation
+title: Mobile App Features
 layout: post
 permalink: /mobile-app/
 ---
