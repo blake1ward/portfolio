@@ -10,7 +10,7 @@ a recent guest or make changes to an existing or future guest’s reservation.
 image
 
 To locate a reservation in your system:
-1. Click **Search**.
+1. Click **Search** <img src="/portfolio/images/Search-for-a-Reservation.jpg" alt="search">.
 2. Select an option from the **Search Options** dropdown.
      - There are many options to search for a guest:
 
