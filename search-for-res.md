@@ -7,7 +7,7 @@ permalink: /search-res/
 Use Visual Matrix to search for past, present, and future reservations. View the details on
 a recent guest or make changes to an existing or future guest’s reservation.
 
-<img src="/portfolio/images/update-this.jpg.jpg" alt="search">
+<img src="/portfolio/images/update-this.jpg" alt="search-overview">
 
 To locate a reservation in your system:
 1. Click  <img src="/portfolio/images/Search-for-a-Reservation.jpg" alt="search">.
