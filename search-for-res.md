@@ -12,9 +12,7 @@ a recent guest or make changes to an existing or future guest’s reservation.
 To locate a reservation in your system:
 
 1. Click &nbsp;<img src="/portfolio/images/Search-for-a-Reservation.jpg" width="75" alt="search">.
-
 2. Select an option from the **Search Options** dropdown.
-
 3. Input a **date range**.
 
 - Search using a small date range for concise results.
@@ -24,7 +22,6 @@ To locate a reservation in your system:
 
 - Some Search Options do not give you the option to type; there are Search Options
 with preset Search Field options. For example: the Search Option “Room Type."
-
 - There are specific and general search option criteria. For example, a search for Guest
 ID # could yield a more exact result than a search for Guest Last Name if the guest
 has a common surname.
