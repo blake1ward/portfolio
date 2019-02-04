@@ -7,17 +7,13 @@ permalink: /search-res/
 Use Visual Matrix to search for past, present, and future reservations. View the details on
 a recent guest or make changes to an existing or future guest’s reservation.
 
-image
+<img src="/portfolio/images/update-this.jpg.jpg" alt="search">
 
 To locate a reservation in your system:
-1. Click <img src="/portfolio/images/Search-for-a-Reservation.jpg" width="75%" height="75%" alt="search">.
+1. Click <img src="/portfolio/images/Search-for-a-Reservation.jpg" alt="search">.
 2. Select an option from the **Search Options** dropdown.
-     - There are many options to search for a guest:
-
-table image
-
-4. Input a **date range**.
-5. Type the search criteria under the Search Field.
+3. Input a **date range**.
+4. Type the search criteria under the Search Field.
 Some Search Options do not give you the option to type; there are Search Options
 with preset Search Field options. For example: the Search Option “Room Type."
 
@@ -29,7 +25,7 @@ If you know the approximate date of the reservation, narrow your search with a
 smaller date range. To expand your search, expand the date range to include dates,
 weeks, months, or even years.
 
-6. Click **Refresh** to display the search results on the screen.
+5. Click **Refresh** to display the search results on the screen.
 
 If the search yields only one result, it will automatically open on your display. If the
 search yields multiple results, a list will display on the screen.
