@@ -13,8 +13,8 @@ To locate a reservation in your system:
 1. Click &nbsp;<img src="/portfolio/images/Search-for-a-Reservation.jpg" width="75" alt="search">.
 2. Select an option from the **Search Options** dropdown.
 3. Input a **date range**.
-- Use a small date range for a narrow search.
-- Use a broad date range to expand the search.
+- Search using a small date range for concise results.
+- Search using a broad date range to expand the number of results.
 4. Type the search criteria under the Search Field.
 - Some Search Options do not give you the option to type; there are Search Options
 with preset Search Field options. For example: the Search Option “Room Type."
