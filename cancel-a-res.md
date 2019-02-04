@@ -8,7 +8,7 @@ permalink: /cancel-res/
 
 1. Search for the reservation.
 
-2. Click <img src="https://i.imgur.com/b1mnRmg.jpg" width="75" alt="cancel">on the function menu.
+2. Click &nbsp;<img src="https://i.imgur.com/b1mnRmg.jpg" width="75" alt="cancel">on the function menu.
 
 
 3. In the dialog box, click **Yes** to confirm cancellation (the following dialog box displays the *Cancel Confirmation Number*).
