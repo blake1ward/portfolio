@@ -10,10 +10,11 @@ a recent guest or make changes to an existing or future guest’s reservation.
 <img src="/portfolio/images/update-this.jpg.jpg" alt="search">
 
 To locate a reservation in your system:
-1. Click <img src="/portfolio/images/Search-for-a-Reservation.jpg" alt="search">.
+1. Click  <img src="/portfolio/images/Search-for-a-Reservation.jpg" alt="search">.
 2. Select an option from the **Search Options** dropdown.
 3. Input a **date range**.
 4. Type the search criteria under the Search Field.
+
 Some Search Options do not give you the option to type; there are Search Options
 with preset Search Field options. For example: the Search Option “Room Type."
 
