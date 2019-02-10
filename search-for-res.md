@@ -4,14 +4,12 @@ layout: post
 permalink: /search-res/
 ---
 
-Use Visual Matrix to search for past, present, and future reservations. View the details on
+Use Visual Matrix to search for past, present, and future reservations. Search for reservations to view the details on
 a recent guest or make changes to an existing or future guest’s reservation.
-
-<img src="/portfolio/images/update-this.jpg" alt="search-overview">
 
 To locate a reservation in your system:
 
-1. Click &nbsp;<img src="/portfolio/images/Search-for-a-Reservation.jpg" width="75" alt="search">.
+1. Click &nbsp;<img src="/portfolio/images/Search-for-a-Reservation.jpg" width="65" alt="search">.
 
 2. Select an option from the **Search Options** dropdown.
 
@@ -23,8 +21,7 @@ To locate a reservation in your system:
 
 4. Type the search criteria under the Search Field.
 
-    - Some Search Options do not give you the option to type; there are Search Options
-with preset Search Field options. For example: the Search Option “Room Type."
+    - There are Search Options with preset Search Field options. For example: the Search Option “Room Type."
 
     - There are specific and general search option criteria. For example, a search for Guest
 ID # could yield a more exact result than a search for Guest Last Name if the guest
