@@ -66,6 +66,7 @@ See if you can browse from client to server:
     `C:\Windows\ProgramFiles(x86)\Microsoft SQL Server\MSSQL10_50.VMATRIX2008\MSSQL\Binn\sqlservr.exe`
     
 2. Give **port 1702** firewall permission. 
+
     - Visual Matrix runs through this port.
     
 3. **Temporarily** disable firewall then attempt to open Visual Matrix.
