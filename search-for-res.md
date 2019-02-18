@@ -27,7 +27,7 @@ To locate a reservation in your system:
 ID # could yield a more exact result than a search for Guest Last Name if the guest
 has a common surname.
 
-5. Click **Refresh** to display the search results on the screen.
+5. Click &nbsp;<img src="/portfolio/images/refresh.png" width="65" alt="refresh"> to display the search results on the screen.
 
 If the search yields only one result, it will automatically open on your display. If the
 search yields multiple results, a list will display on the screen.
