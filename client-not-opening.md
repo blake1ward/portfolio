@@ -31,23 +31,21 @@ If the data fields are not formatted like this, or if they have IP addresses whe
 
 1. In the file explorer, go to:
 
-    <img src="/portfolio/images/client2.png" alt="client2">
-
     `C:\Windows\System32\drivers\etc`
     
 2. Right click the **hosts** file and open with Notepad.
 
-    <img src="/portfolio/images/client3.png" alt="client3">
+    <img src="/portfolio/images/client2.png" alt="client2">
 
 3. Check to see if there is an entry for the server computer's name and IP address. Ideally, there is not an entry.
 
-    <img src="/portfolio/images/client4.png" alt="client4">
+    <img src="/portfolio/images/client3.png" alt="client3">
 
 4. If there is an entry, validate that they are both correct by comparing them to the server name and IP address at the top of your VNConnect screen.
 
     - On the server computer: to check the IP and server name another way, open the cmd prompt and type "ipconfig". The IP address is next to the field labelled "Ipv4".
     
-## \\servername
+## server name
 
 See if you can browse from client to server:
 
@@ -55,7 +53,7 @@ See if you can browse from client to server:
 
     - You should be able to see a VM_Shared folder.
 
-    <img src="/portfolio/images/client5.png" alt="client5">
+    <img src="/portfolio/images/client4.png" alt="client54">
 
 2. Verify that you can view all of the shared folders. 
 
