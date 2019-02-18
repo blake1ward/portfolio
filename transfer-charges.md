@@ -14,4 +14,4 @@ To retroactively send the charges that are already posted:
 6. Click **Send**.
 
 If the group has multiple rooms, repeat steps 4-6 on each room that you want to send charges
-to.
+back to the group master. 
