@@ -16,7 +16,7 @@ housekeeper will appear in the window.
 rooms to that status. Click **Clean** to set all *“on change”* rooms to *“clean”*.
 
 Note the legend at the top of the screen for the room status colors. 
-- Room with any of these statuses can be checked in as long as they are vacant. 
+- Rooms with any of these statuses can be checked in as long as they are vacant. 
 - Rooms that are yellow, for “clean,” are ready for guests but not yet inspected by a manager.
 
 <img src="/portfolio/images/status-report.jpg" width="75" alt="search-overview"> Click to generate a report of each rooms’ status. It shows room number, room type, maid the
