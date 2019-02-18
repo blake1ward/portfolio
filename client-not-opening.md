@@ -22,6 +22,6 @@ Follow the troubleshooting path below.
 
 3. Make sure that the info in the Data field next these file names matches this format:
 
-`file: sharepath_reg_sz`
+`file: sharepath_reg_sz` <br>
 `data: "servername"\Vm_Shared`
 
