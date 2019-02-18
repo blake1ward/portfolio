@@ -7,7 +7,7 @@ permalink: /room-status/
 The room status tab has a table of all the rooms in the hotel that you have assigned to
 housekeepers. You can use this window to conveniently change room statuses.
 
-<img src="/portfolio/images/statuso.png" alt="search-overview">
+<img src="/portfolio/images/statuso.png" alt="status-overview">
 
 - Double-click the room number to cycle through and set room statuses.
 - Select a **Housekeeper** from the dropdown. Only the rooms that you assigned to that
