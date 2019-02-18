@@ -5,8 +5,7 @@ permalink: /room-status/
 ---
 
 The room status tab has a table of all the rooms in the hotel that you have assigned to
-housekeepers. You can use this window to conveniently change the statuses of housekeeper’s
-rooms.
+housekeepers. You can use this window to conveniently change room statuses.
 
 <img src="/portfolio/images/statuso.png" alt="search-overview">
 
