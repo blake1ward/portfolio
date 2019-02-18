@@ -34,7 +34,7 @@ or a "production" property. Click **Ok**, and then log in with your user name an
 
 **Two Week Forecast**: Display arrivals, departures, rooms, and occupancy %.
 
-<img src="/portfolio/images/app6.jpg" awidth="230" lt="app6">
+<img src="/portfolio/images/app6.jpg" width="230" lt="app6">
 
 **Deposit Summary**: Display the hotel’s deposits, cash, checks, and total credit card
 charges.
@@ -45,7 +45,7 @@ charges.
 percentage, ADR, and REVPAR. Generate daily reports for today, month-to-date, and
 year-to-date.
 
-<img src="/portfolio/images/app8.jpg" alt="app8">
+<img src="/portfolio/images/app8.jpg" width="230" alt="app8">
 
 ## Maintenance
 **Work Order Search**: Display a list of pending work orders. You can also complete pending
