@@ -20,8 +20,8 @@ highlight the user, select **Mobile** in the "Access Privileges" section, and th
 
 ## Logging In
 
-<img src="/portfolio/images/app3.jpg" alt="app3">
-<img src="/portfolio/images/app4.jpg" alt="app4">
+<img src="/portfolio/images/app3.jpg" width="230" alt="app3">&nbsp;
+<img src="/portfolio/images/app4.jpg" width="230" alt="app4">
 
 Click at the bottom of the login screen, and then select whether your property is a "pilot"
 or a "production" property. Click **Ok**, and then log in with your user name and password.
