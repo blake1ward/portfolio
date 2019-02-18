@@ -11,7 +11,7 @@ the app.
 ## General
 
 <img src="/portfolio/images/app1.jpg" width="230" alt="app1">
-<img src="/portfolio/images/app2.jpg" alt="app2">
+<img src="/portfolio/images/app2.jpg" width="230" alt="app2">
 
 - You do not need extra user licenses to log into the app.
 - To permission users for the app, go to Management: User Settings: Security,
