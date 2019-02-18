@@ -25,3 +25,7 @@ Follow the troubleshooting path below.
     `file: sharepath_reg_sz` <br>
     `data: "servername"\Vm_Shared`
 
+If the data fields are not formatted like this, or if they have IP addresses where server names should be, speak with your team leader or supervisor.
+
+## Windows Host File
+
