@@ -59,7 +59,7 @@ See if you can browse from client to server:
 
 ## Firewall/Antivirus
 
-**DO NOT shut off any of the customer's firewalls/antivirus programs.
+**DO NOT** shut off any of the customer's firewalls/antivirus programs.
 
 1. Give .sql firewall permission. File path:
 
