@@ -29,3 +29,53 @@ If the data fields are not formatted like this, or if they have IP addresses whe
 
 ## Windows Host File
 
+1. In the file explorer, go to:
+
+    <img src="/portfolio/images/client2.png" alt="client2">
+
+    `C:\Windows\System32\drivers\etc`
+    
+2. Right click the **hosts** file and open with Notepad.
+
+    <img src="/portfolio/images/client3.png" alt="client3">
+
+3. Check to see if there is an entry for the server computer's name and IP address. Ideally, there is not an entry.
+
+    <img src="/portfolio/images/client4.png" alt="client4">
+
+4. If there is an entry, validate that they are both correct by comparing them to the server name and IP address at the top of your VNConnect screen.
+
+    - On the server computer: to check the IP and server name another way, open the cmd prompt and type "ipconfig". The IP address is next to the field labelled "Ipv4".
+    
+## \\servername
+
+See if you can browse from client to server:
+
+1. Enter `\\'servername'` (with no quotes) in the file explorer.
+
+    - You should be able to see a VM_Shared folder.
+
+    <img src="/portfolio/images/client5.png" alt="client5">
+
+2. Verify that you can view all of the shared folders. 
+
+## Firewall/Antivirus
+
+**DO NOT shut off any of the customer's firewalls/antivirus programs.
+
+1. Give .sql firewall permission. File path:
+
+    `C:\Windows\ProgramFiles(x86)\Microsoft SQL Server\MSSQL10_50.VMATRIX2008\MSSQL\Binn\sqlservr.exe`
+    
+2. Give **port 1702** firewall permission. 
+    - Visual Matrix runs through this port.
+    
+3. **Temporarily** disable firewall then attempt to open Visual Matrix.
+
+If that does not solve the issue: 
+
+## Get help from supervisor or team lead
+
+
+
+
