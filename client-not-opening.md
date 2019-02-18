@@ -18,10 +18,10 @@ Follow the troubleshooting path below.
 
 2. In the registry editor, follow this folder path in the menu on the left: 
 
-`:\Hkey_Local_Machine\Software\WOW6432Node\ImageTech\VisualMatrix\Data`
+    `:\Hkey_Local_Machine\Software\WOW6432Node\ImageTech\VisualMatrix\Data`
 
 3. Make sure that the info in the Data field next these file names matches this format:
 
-`file: sharepath_reg_sz` <br>
-`data: "servername"\Vm_Shared`
+    `file: sharepath_reg_sz` <br>
+    `data: "servername"\Vm_Shared`
 
