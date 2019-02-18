@@ -4,7 +4,7 @@ layout: post
 permalink: /room-status/
 ---
 
-The room status tab has a table of all the rooms in the hotel that you, or another user, assigned to
+The room status tab has a table of all the rooms in the hotel that you have assigned to
 housekeepers. You can use this window to conveniently change the statuses of housekeeper’s
 rooms.
 
