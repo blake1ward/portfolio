@@ -38,13 +38,13 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 - Drafted a Social Media Marketing plan with a team of writers.
 - Presented the plan to the owner of the company.
 
-### Education
+## Education
 **University of North Texas**
 
 - Bachelor of Arts (B.A.), English Language and Literature, Creative Writing
 - Certificate in Technical Writing
 
-### Publications
+## Publications
 
 - “Saint Mary the Flower” (2017), Common Ground Review (print)
 -  Tuff Luv (fiction novella), eBook and print (ISBN-13: 978-0692954713)
