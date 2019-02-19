@@ -47,5 +47,5 @@ There are two parts to escalating an issue:
 - If you show a team leader and the problem persists, email it to the supervisors.
 - Send your email to supervisor@vmpms.com. 
 - In the subject line put the property name/ID, summary of the issue, and ticket number.
-I.e., Blake's Hotel | Property ID: 12345 | Advance Deposit Report Incorrect | Ticket: 98765
+    - `Blake's Hotel | Property ID: 12345 | Advance Deposit Report Incorrect | Ticket: 98765`
 - In your email, describe the problem like you are speaking to a total beginner. Keep your email direct and professional; do not rant in your email.
