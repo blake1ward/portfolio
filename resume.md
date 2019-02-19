@@ -4,8 +4,9 @@ layout: post
 permalink: /resume/
 published: true
 ---
-
+<hr>
 ## Professional History
+<hr>
 ### Technical Writer
 **Image Technology Systems • Richardson, Texas**
 <br>
