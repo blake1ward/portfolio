@@ -58,9 +58,8 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 
 **University of North Texas**
 
-*Bachelor of Arts (B.A.), English Language and Literature, Creative Writing*
-
-*Certificate in Technical Writing*
+- Bachelor of Arts (B.A.), English Language and Literature, Creative Writing
+- Certificate in Technical Writing
 
 ### Publications
 
