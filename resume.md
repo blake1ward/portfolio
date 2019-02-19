@@ -2,6 +2,7 @@
 title: Resume
 layout: post
 permalink: /resume/
+published: true
 ---
 
 <!-- <p>Hello! I'm Blake Ward. I'm a Dallas based technical writer. Although I specialize in technical writing, I'm interested in writing/editing just about anything.</p>
