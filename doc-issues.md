@@ -35,7 +35,7 @@ There are two parts to escalating an issue:
 
 **Up-to-Date Database**
 
-1. In Visual Matrix, go to Front Office->Supervisor->System Maintenance then click Backup.
+1. In Visual Matrix, go to Front Office->Supervisor->System Maintenance then click **Backup**.
 
 2. Find the backup in file path:
     `C:\ImageTech\VisualMatrix\Shared\Backup\VM"date".dbk`
@@ -47,5 +47,5 @@ There are two parts to escalating an issue:
 - If you show a team leader and the problem persists, email it to the supervisors.
 - Send your email to supervisor@vmpms.com. 
 - In the subject line put the property name/ID, summary of the issue, and ticket number.
-    - I.e., Blake's Hotel | Property ID: 12345 | Advance Deposit Report Incorrect | Ticket: 98765
+I.e., Blake's Hotel | Property ID: 12345 | Advance Deposit Report Incorrect | Ticket: 98765
 - In your email, describe the problem like you are speaking to a total beginner. Keep your email direct and professional; do not rant in your email.
