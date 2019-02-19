@@ -44,7 +44,8 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 <hr>
 ## Education
 <hr>
-**University of North Texas** 
+**University of North Texas**
+<br>
 *2011-2015*
 - Bachelor of Arts (B.A.), English Language and Literature, Creative Writing
 - Certificate in Technical Writing
