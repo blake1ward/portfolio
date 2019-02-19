@@ -8,6 +8,7 @@ published: true
 ## Professional History
 ### Technical Writer
 **Image Technology Systems • Richardson, Texas**
+<br>
 *May 2016 - Present*
 
 Write, edit, publish, and maintain documentation and training materials for Visual Matrix, a property
@@ -21,6 +22,7 @@ management system.
 
 ### Sales and Marketing Support Specialist
 **Thermi • Irving, Texas**
+<br>
 *Oct. 2015 - May 2016*
 
 Sales and marketing support for ThermiRF, a radio-frequency platform for minimally invasive surgery.
@@ -33,6 +35,7 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 
 ### Technical Writing Intern
 **Level 1 General Construction, LLC • Denton, Texas**
+<br>
 *Dec. 2014 - May 2015*
 - Conducted research for a Social Media Marketing plan.
 - Drafted a Social Media Marketing plan with a team of writers.
