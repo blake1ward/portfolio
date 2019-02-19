@@ -6,9 +6,8 @@ published: true
 ---
 
 ## Professional History
-
+<br>
 ### Technical Writer
-
 **Image Technology Systems • Richardson, Texas**
 <br>
 *May 2016 - Present*
@@ -23,7 +22,6 @@ management system.
 - Created a training website for new and existing Image Technology employees.
 
 ### Sales and Marketing Support Specialist
-
 **Thermi • Irving, Texas**
 <br>
 *Oct. 2015 - May 2016*
@@ -37,7 +35,6 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 - Set up new hires with technology, marketing collateral, and demonstration equipment.
 
 ### Technical Writing Intern
-
 **Level 1 General Construction, LLC • Denton, Texas**
 <br>
 *Dec. 2014 - May 2015*
@@ -46,7 +43,6 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 - Presented the plan to the owner of the company.
 
 ### Education
-
 **University of North Texas**
 
 - Bachelor of Arts (B.A.), English Language and Literature, Creative Writing
@@ -56,18 +52,6 @@ Sales and marketing support for ThermiRF, a radio-frequency platform for minimal
 
 - “Saint Mary the Flower” (2017), Common Ground Review (print)
 -  Tuff Luv (fiction novella), eBook and print (ISBN-13: 978-0692954713)
-
-
-
-<!-- <p>Hello! I'm Blake Ward. I'm a Dallas based technical writer. Although I specialize in technical writing, I'm interested in writing/editing just about anything.</p>
-<p>If you would like to discuss how I can help your next project, please <a href="">contact me.</a> You can see selected examples of my work <a href="">here.</a> Otherwise, feel free to join the discussion on one of my <a href="">posts.</a></p>
-<h3>Skills</h3>
-<ul>
-<li>HTML, CSS, Bootstrap, XML, and Markdown</li>
-<li>Adobe Suite (InDesign, Robohelp, Photoshop, Illustrator, and Acrobat DC)</li>
-<li>Microsoft Suite (Excel, Word, and PowerPoint)</li>
-<li>Writing and editing: AP style, Chicago style, MLA style, and STE (Standard Technical English)</li>
-</ul>-->
 
 
 
