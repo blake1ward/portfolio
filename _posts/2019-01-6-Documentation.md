@@ -15,6 +15,7 @@ title: "Documentation samples"
 ## Feature Release
 <ul>
 <li><a href="https://blake1ward.github.io/portfolio/mobile-app/" target="_blank">VM Mobile App Features</a></li>
+<li><a href="https://blake1ward.github.io/portfolio/new-release/" target="_blank">New Feature Release</a></li>  
   </ul>
 
 ## Internal Troubleshooting Guides
