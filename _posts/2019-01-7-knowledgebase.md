@@ -30,4 +30,4 @@ The knowledge base provides clients with help documentation that covers every fe
 
 ### Analytics:
 - Google analytics to track user trends and article popularity
-- Heatmaps to guage user interacion
+- Heatmaps to gauge user interacion
