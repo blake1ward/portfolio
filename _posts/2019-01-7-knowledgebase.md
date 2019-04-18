@@ -14,13 +14,20 @@ The knowledge base provides clients with help documentation that covers every fe
 
 ## Features
 
-Click below to see a sample of each document type you would find on the knowledge base.
-
 ### End user:
 - Step-by-step instructions
 - Interface guides
-- Quick reference guide
+- Quick reference guides
 
 ### Internal:
-- Troubleshooting guide
-- Installation guide
+- Troubleshooting guides
+- Installation guides
+
+### Navigation:
+- Navigation based on user access privileges (cloud, desktop, internal, or internal-coordinator)
+- Tiered navigation tree sidebar
+- Optimized search function using meta-tags
+
+### Analytics:
+- Google analytics to track user trends and article popularity
+- Heatmaps to guage user interacion
