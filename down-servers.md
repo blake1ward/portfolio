@@ -1,3 +1,9 @@
+---
+title: Handling Down Servers
+layout: post
+permalink: /down-servers/
+---
+
 ## Before starting
 
 Keep these things in mind before you troubleshoot a down server.
