@@ -1,3 +1,10 @@
+---
+title: Encryption Key Backup
+layout: post
+permalink: /encryption-key-backup/
+---
+
+
 When a hotel is having a issue with their encryption keys, their call will most likely start with: "I can't see credit card numbers."
 
 * The error is: "Encryption Key Mismatch!"
