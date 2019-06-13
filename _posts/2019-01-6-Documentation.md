@@ -22,6 +22,6 @@ title: "Documentation samples"
 <ul>
 <li><a href="https://blake1ward.github.io/portfolio/client-not-opening/" target="_blank">Client Not Opening</a></li>
 <li><a href="https://blake1ward.github.io/portfolio/doc-issues/" target="_blank">Document Issues to be Escalated</a></li>
-<li><a href="https://blake1ward.github.io/portfolio/encryption-key/" target="_blank">Encryption Key Backup</a></li>
+<li><a href="https://blake1ward.github.io/portfolio/encryption-key-backup/" target="_blank">Encryption Key Backup</a></li>
 <li><a href="https://blake1ward.github.io/portfolio/down-servers/" target="_blank">Handling Down Servers</a></li>
   </ul>
