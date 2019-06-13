@@ -1,7 +1,7 @@
 ---
 title: Encryption Key Backup
 layout: post
-permalink: /encryption-key-backup/
+permalink: /encryption/
 ---
 
 
