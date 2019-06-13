@@ -40,6 +40,7 @@ Sometimes the USB drive is not visible, or the USB drive has not been properly i
 `C:\ImageTech\VisualMatrix\Devices\ImportDB.exe`
 
 **How to use ImportDB**
+
 There are different ways to click the Delete Key Store button:
 * Click = Delete the key from keystore
 * CTRL + Click = Creates a backup key from the active key
